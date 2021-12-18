@@ -1,7 +1,10 @@
 ### Bem Vindo(a) ao meu Espaço
-- 👋 Eu sou o Thiago Vanat (vanatdigital nas redes). Tenho 40 anos.
-- 👀 Tenho interesses em Linux, Shellscript, Pizza, Café e Sociologia
-- 🌱 Trabalhei com T.I por mais de 15 anos, atualmente venho atualizando meus conhecimentos e aprendendo novos saberes.
 
-Ainda estou aprendendo a compreender e dominar o Git e GitHub, Tenha Paciencia!!!!
+Ainda **Não sei** o que estou fazendo por aqui. Mas logo vou descobrir.
+
+Atualmente venho me atualizando em **Linux** e **_ShellScript_**
+Brasil/Bahia
+
+[![Card](https://github-readme-stats.vercel.app/api?username=vanatdigital&theme=ocean_dark&locale=pt-BR&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanatdigital&theme=ocean_dark&locale=pt-BR)]()
 
